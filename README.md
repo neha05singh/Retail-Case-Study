@@ -1,4 +1,4 @@
-**CUSTOMER ANALYSIS FOR RETAIL**
+# CUSTOMER ANALYSIS FOR RETAIL
 
 **ANALYTICS IN RETAIL:**
 With the retail market getting more and more competitive by the day, there has never been
