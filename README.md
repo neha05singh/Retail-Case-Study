@@ -34,7 +34,6 @@ keep all customers who have done transactions with us and select the join type a
 2. Prepare a summary report for the merged data set.
  a. Get the column names and their corresponding data types
  b. Top/Bottom 10 observations
-AnalytixLabs, Website: www.analytixlabs.co.in Email: info@analytixlabs.co.inPhone: (+91) 955.521.9007
  c. “Five-number summary” for continuous variables (min, Q1, median, Q3 and max)
 d. Frequency tables for all the categorical variables
 3. Generate histograms for all continuous variables and frequency bars for categorical variables.
